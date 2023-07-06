@@ -1,5 +1,6 @@
 # World GDP Growth from 1980 to 2022
 Welcome to the "World GDP Growth from 1980 to 2022" project.  In this analysis, I explore the global gross domestic product (GDP) trends over a span of more than four decades. The dataset used for this project contains historical GDP values for various countries. This allows me to uncover fascinating insights into the world economy's evolution. The dataset was gotten from Kaggle.
+![GlobalGDP](https://github.com/Awaitingprof/World-GDP-Growth/assets/102805397/d47fc14f-e6a6-4cfc-8a20-3c768f8da258)
 
 ### Motivation
 The global economy is a complex and interconnected system that continuously evolves due to a multitude of factors. By analyzing the GDP growth patterns over time, i can gain a deeper understanding of the global economic landscape, identify key drivers of growth, and explore the impact of significant events and policies on different countries.
